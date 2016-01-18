@@ -8,3 +8,9 @@ Add on package to simulate genomic datasets with varying degree and strengths of
 
 - For the x selected loci, we apply a Wright-Fisher forward time algorithm to simulate loci under selective pressure through a species tree that is parameterized by theta and divergence times
 - These parameters are converted in to disrecte variables (divergence time/mutation rate = # generations)(theta = 4*mutationrate*#diploid)
+
+
+# TO ADD: 
+1. incoporate mutation simulator into seperate function (like selectsweep.R)
+2. split population AB
+
