@@ -2,6 +2,7 @@ Package: SpeciesSim
 Title: Add-on package: used MCCoal to simulate n-x neutral loci, and a forward-time algorithm to simulate x select loci within a 3-taxon species tree
 Version: 0.0.0.9000
 Authors@R: person("Richard", "Adams", email = "radams@uta.edu", role = c("aut", "cre"))
+Authors@R: person("Todd", "Castoe", email = "todd.castoe@uta.edu", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 Depends:
     R (>= 3.2.2)
